@@ -32,7 +32,7 @@ function AlertCookie() {
   <div>
     <button className="btn btn-sm">Deny</button>
     <button className="btn btn-sm btn-primary" onClick={() => {
-        handleShow();
+        
         notify();
     }}>
     Accept
